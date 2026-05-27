@@ -1,0 +1,6 @@
+ls - mostra oque tem onde estamos 
+ls -a - mostra os arquivos ocultos
+cd "nome do local" - abre o diretório que colocamos
+pwd - mostra o caminho real que você está
+mkdir "nome da pasta" - cria a pasta
+git init . - vira uma pasta especial para versionar ela torna ela um repositório
